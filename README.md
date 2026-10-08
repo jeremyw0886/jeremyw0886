@@ -4,6 +4,7 @@ I build accessible web applications and grounded AI systems as [DevDudeJeremy](h
 
 Most of my public work lives in the DevDudeJeremy organization:
 
+- [**agent-core**](https://github.com/DevDudeJeremy/agent-core) — an open-source framework for on-site AI agents: a streaming Claude tool-use loop, hybrid retrieval and human-gated tools, tested with no API keys.
 - [**The Warren**](https://github.com/DevDudeJeremy/warren) — an open-source workflow toolkit for Claude Code: reusable skills, chained commands, and model-routed agents.
 - [**Docs RAG**](https://github.com/DevDudeJeremy/docs-rag) — the citation-grounded assistant that runs on devdudejeremy.com.
 - [**Neighborhood Tools**](https://github.com/DevDudeJeremy/neighborhood-tools) — a live peer-to-peer tool-sharing marketplace.
